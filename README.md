@@ -17,19 +17,23 @@ Python
 Pandas
 Scikit-learn
 Jupyter Notebook
+
 📂 Project Structure
 code_alpha_task1/
 │── codealpha1.ipynb
 │── requirements.txt
 │── LICENSE
 │── README.md
+
 ▶️ How to Run
 Clone the repository.
 Install the required libraries.
 pip install -r requirements.txt
 Open the notebook and run all cells.
+
 📊 Dataset
 Iris Dataset (Available in Scikit-learn)
+
 👩‍💻 Author
 Durga Eswari 
 
